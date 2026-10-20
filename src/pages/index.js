@@ -242,7 +242,7 @@ function HomepageHeader() {
                 position: 'relative', // Ensure buttons are above overlay
                 zIndex: 3
               }}
-              href="/docs/get-started">
+              href="/docs/about/mission">
               Learn More
             </a>
           </div>
